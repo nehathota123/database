@@ -1,0 +1,2 @@
+# database
+As part of my university curriculum, I took a Database Administration and Design course, where I created ERD, EERD, RS, and databases in Microsoft SQL Server Management Studio for three major datasets. I modified and analyzed the datasets using update/delete, aggregator, indexes, execution plans, cascade/no action, join, stored procedure, etc. I also created a few reports of these databases on Visual Studio SSDT. 
